@@ -1,1 +1,0 @@
-print("Ravi Adulla training")
