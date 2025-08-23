@@ -1,0 +1,6 @@
+{
+    "type": "AzureBlobStorage",
+    "typeProperties": {
+        "connectionString": "DefaultEndpointsProtocol=https;AccountName=ssacloudadfstorage;AccountKey=A00QaujqaZ6Qe3oF0uJtsoLRSLYYB2sh5XVTdf5mGr0iGERGyxKygLjvbO6bd2kG97h3s5MCb66f+AStcMiI6A==;EndpointSuffix=core.windows.net;BlobEndpoint=https://ssacloudadfstorage.blob.core.windows.net/;"
+    }
+}

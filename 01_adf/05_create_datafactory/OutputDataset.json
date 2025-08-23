@@ -1,0 +1,14 @@
+{
+    "linkedServiceName": {
+        "referenceName": "AzureStorageLinkedService",
+        "type": "LinkedServiceReference"
+    },
+    "type": "Binary",
+    "typeProperties": {
+        "location": {
+            "type": "AzureBlobStorageLocation",
+            "folderPath": "output",
+            "container": "cont"
+        }
+    }
+}
